@@ -1,0 +1,12 @@
+{
+  "keys": [
+ {
+  "kty": "RSA",
+   "use": "sig",
+   "kid": "epic-key-1",
+   "alg": "RS256",
+  "n": "sXchv8Y5K9x3J2g7M0pQZb4W3lVfU0D9O7tR5y2aJ6h8L1b0N3k2Q5p4U1v6t8F0P2q3m4W8t7E1Y2o5Q7f0R9u3D1x2J5K7H0n8M4o6C3p9Z1L0Y2X3V5S8R1T4Q6N2M7L5K9J3I8H2G0F4E6D1C3B9A8",
+  "e": "AQAB"
+ }
+]
+}
