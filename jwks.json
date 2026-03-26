@@ -1,12 +1,5 @@
 {
-  "keys": [
- {
-  "kty": "RSA",
-   "use": "sig",
-   "kid": "epic-key-1",
-   "alg": "RS256",
-  "n": "s06Y5CYhuQh13oGHXE5ns76Cogk8AkpjSIyG7OOPYQ9JQ2HLWMv1CRFGRwjWlBMZEuFSc2TqaOpYozSKeQXrbWmpVXX5avPIfglT0Hk0ZDn75sGZiJN3el1dlXmGzJ8HCqcoEAHISMR-4KafP5cU3e-bmimLnwj4m7qboL-LQRYAftCJ-yWidE8pkUI86M9qlv8h9aOqVC08ovb2uiiYI0_qeshSUbOwbYNltFLSobm3h1iJbmyym-dLd8dbidslSJd40CilnQ5X71PxOzAwfg6GbMN9qdYfqn1FfGkmmasKB5UwrPRl2YmEpn-8KeEZs5OPnC0ZmUzgZ1yEnP_lUw",
-  "e": "AQAB"
- }
-]
+     "keys": [
+       { "kty": "RSA", "e": "AQAB", "kid": "1248110c-afbd-484c-b75b-b30200ffcf05", "n": "zyHogIFhgXv1pv4V0R3masVRsYloqMfg8nqiM0TgklQEZFDJtRpPpf8gCJsv9EwydFxtgXUtiJ4CJ44iGY7z0kLhtQvm_r06vVqTvW5ZMmWmZQjcARCIlbwZuKkyLRkrOU6ZHrKoWLIfR7UfVBsocLhn3URywi_tmaYl5w3Hgtn91GI_1LoCtzWCpyZ_4Y9554Bys7es2_SCh2OF_wbfNBOndHDfHMTn0WAge7yrnl5vKT0cnKGDLVvMxY-PAAVovnNcnv6INFIYYeMpMKXPoQ65kifnueJE5Bw3SlLphNUwaQfrF1uC4gV1ECYUkIN3KZKJ12SoLSAnQBm5v5zqpQ", }
+     ]
 }
