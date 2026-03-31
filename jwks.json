@@ -1,12 +1,5 @@
 {
   "keys": [
-     {
-      "kty": "RSA",
-      "n": "5nrVfc6M-WvXMA5C1munmKsG9VRiAOGhYQhD8KqKaGnq5CNU7sMJOKcs24s1FnfTHUvpw39Pfk1Fvw05jOZ-8AoqIz2LoNheNICrv6V3DQ6neWqqpBFMEPy6tv4r7ZHzKl_VIhjLJgSPTPnqUQxEyrvojRCZeRDU-rFJjdF1Js2RZ0yxV1qeo4GcQGPTqCYIjD25H2WhknWf5YOcMeo3qFvxLBw-wgUSbl1jTdepiXSXkijFpLUzVGIXA81bruzjyvvcNVBuoYLJZscR5fp4jKydFRWjG7siiiSGZLIS379Jg_mEns2t8xAZhLuYX0CABsutPp-OO92JUqQjDxpBwQ",
-      "e": "AQAB",
-      "use": "sig",
-      "alg": "RS384",
-      "kid": "epic-key-1"
-     }
+    { "kty": "RSA", "e": "AQAB", "kid": "epic-key-1" "n": "oweHEvDEfGWSm7EI6t8XOEgw3uOTWVsuzPvd8rJcwcoy2ptH03NfrIxuMAwed40-rIuhxCM0ab9RrSaAQcDR0GoZJ6_718W88QM3OVdU0j3tR7E1l9XgSZEpVBT5_cLRXgRUqoA_-lWLHrh2CvxsOW3bL_g_sFVi5JOPbNrUgDN1bFwIiRPOizQHbUVzv2BH9mIYQ-9Ga_3GMo0vIYFCwbZQJPRAfTgGhrzFCx_6QXPdtYCJ-I3QHGtrmtEdRZvarEihT5MVwhZQl0jJOMC3TiWv-YeXOSC3BvydB9AlS4Rip9-82Hob76sFAQuF92yhwKwyc0753UfPC7jJozxYbQ" }
   ]
 }
